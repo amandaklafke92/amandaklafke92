@@ -6,16 +6,16 @@ For my life online, AI has been the answer. My main squeeze is Claude, you've pr
 
 Anyway, this lil account here is two weeks old. Here's what's inside:
 
-**[Anchor](link)**: a personal memory and reflection Claude plugin, and the 
+**[Anchor](https://github.com/amandaklafke92/claude-plugin-anchor)**: a personal memory and reflection Claude plugin, and the 
 beginning of a longer product idea: a life archive tool with frictionless 
 capture, intelligent synthesis and a printed annual book as the output. 
 I'm testing the core workflow manually before building anything too fancy. 
 I'm not a developer, but if the idea is worth exploring, I'll give it a good go.
 
-**[Claude Skills](link)**: custom skills built with Claude, for Claude. Starting 
+**[Claude Skills](https://github.com/amandaklafke92/claude-skills)**: custom skills built with Claude, for Claude. Starting 
 with a communication assessment tool: share a transcript of a conversation and Claude analyses how you showed up—not just what was said, but the dynamic you created.
 
-**[Personal Style System](link)**: a fashion and wardrobe toolkit built in conversation with Claude. What? I needed a stylist, so I built my own. 
+**[Personal Style System](https://github.com/amandaklafke92/personal-style-system)**: a fashion and wardrobe toolkit built in conversation with Claude. What? I needed a stylist, so I built my own. 
 
 ## TLDR 
 I'm interested in what AI can genuinely do for how people work, think and remember—not theoretically, but IRL. Everything here 
