@@ -4,7 +4,7 @@ Before we begin, there's one thing you should know: I am *not* a developer. So p
 
 For my life online, AI has been the answer. My main squeeze is Claude, you've probably heard of it/him (is it still weird to assign genders to AI?). It's been helping me address many problems and inefficiencies. More than that, the superpowers that Claude has endowed me with has been inspiring a lot of creative ideas. It's kind of annoying, actually. And my eyesight is definitely degrading.
 
-Anyway, this lil account here is two weeks old. Here's what's inside:
+Anyway, as of this writing (Mar, 2026), this lil account here is just a few weeks old. Here's what's inside:
 
 **[Anchor](https://github.com/amandaklafke92/claude-plugin-anchor)**: a personal memory and reflection Claude plugin, and the 
 beginning of a longer product idea: a life archive tool with frictionless 
